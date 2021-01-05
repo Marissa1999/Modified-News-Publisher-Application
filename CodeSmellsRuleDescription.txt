@@ -1,0 +1,8 @@
+Student Names: Marissa Gonçalves & Yulia Bakaleinik
+
+Code Smells Rule ~ Interfaces Should Not Inherit Different Base Interfaces with Similar Members
+
+When you inherit from two interfaces but both of the interfaces have the same member name, 
+the member through the derived interface will result in a complied error, CS0229. To avoid this 
+error, you need to rename the member name to remove the collision and defining that member 
+in the derived interface.

@@ -1,0 +1,7 @@
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\obj\Debug\CompliantNewsPublishing.csprojAssemblyReference.cache
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\obj\Debug\CompliantNewsPublishing.csproj.CoreCompileInputs.cache
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+C:\Users\maris\Downloads\CompliantNewsPublisherCode\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb
